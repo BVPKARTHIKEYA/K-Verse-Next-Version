@@ -146,3 +146,14 @@ export const personalData = {
 |    tailwindcss     |
 
 ---
+
+![k-verse-1](https://github.com/user-attachments/assets/78ceb9f5-562d-4579-8c90-e77a466e5088)
+
+![k-verse-2](https://github.com/user-attachments/assets/6c0a31ab-e72c-446e-ad8d-bd3f5b6e8fda)
+
+![k-verse-3](https://github.com/user-attachments/assets/fd31c793-a5fa-4388-b459-087998f3c196)
+
+![WhatsApp Image 2025-10-28 at 09 35 42_ea68b9ab](https://github.com/user-attachments/assets/6a956d0c-0eb9-4a1b-9bde-371b557772ac)
+
+![WhatsApp Image 2025-10-28 at 09 34 18_3b2dec4f](https://github.com/user-attachments/assets/87f8a1e9-d660-4771-b17b-3ddb069f8640)
+
