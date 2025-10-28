@@ -1,0 +1,20 @@
+export const personalData = {
+  name: "Karthikeya Boddeda",
+  nameTitle: "Karthikeya Boddeda",
+  profile: '/profile.png',
+  profile1: '/profile1.jpg',
+  profile2: '/profile2.jpg',
+  profile3: '/profile3.jpg',
+  description: "My name is Karthikeya Boddeda, and I am a professional and enthusiastic programmer in my daily life. I have a strong commitment to continuous learning and a proactive approach to self-improvement. Exploring new technologies and solving intricate problems are my passions. I possess expertise in various domains including web application development, and machine learning, with a particular emphasis on leveraging JavaScript and Python for versatile solutions. I am eagerly seeking new opportunities that allow me to apply my skills effectively and contribute to impactful projects.",
+  email: 'boddeda.karthikeya@gmail.com',
+  phone: '+91 8074417859',
+  address: 'Vishakapatnam, Andhra Pradesh, India',
+  github: 'https://github.com/BVPKARTHIKEYA',
+  facebook: 'https://www.facebook.com/boddeda.karthikeya/',
+  linkedIn: 'https://www.linkedin.com/in/boddeda-venkata-pavan-karthikeya-1a670b255/',
+  twitter: 'https://x.com/karth_bodd9274',
+  instagram: 'https://www.instagram.com/karthikeya_boddeda/',
+  resume: "https://github.com/BVPKARTHIKEYA/karthikeya-s-resume/blob/main/final%20resume.pdf",
+  devUsername: "karthikeya_boddeda",
+  mediumUsername: "sunny.penny041"
+}
