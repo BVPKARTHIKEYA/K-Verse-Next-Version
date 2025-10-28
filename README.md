@@ -1,6 +1,17 @@
 # K-Verse (Portfolio)
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+# Portfolio Website
+
+A modern, responsive portfolio website built to showcase my projects, technical skills, and professional experience.
+
+## 🌟 Features
+
+- **Responsive Design** - Optimized for all devices and screen sizes
+- **Project Showcase** - Interactive gallery highlighting my best work
+- **About Section** - Introduction and professional background
+- **Skills Overview** - Visual representation of technical competencies
+- **Contact Form** - Easy way for visitors to get in touch
+- **Smooth Animations** - Engaging user experience with subtle transitions
 
 ---
 
